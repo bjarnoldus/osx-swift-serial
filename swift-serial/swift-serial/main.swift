@@ -16,7 +16,7 @@
 
 //  Note for compilation:
 //  Make sure you executed 'pod update' in the project root and opened the workspace file
-//  This file is dependent on the ORSSerialPort Library
+//  This file depends on the ORSSerialPort Library
 
 import Foundation
 
