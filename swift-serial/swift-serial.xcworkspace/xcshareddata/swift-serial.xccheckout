@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>128043BF-8FAA-425A-8E33-ECAEA4296E6D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>swift-serial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>135544444C6A1E93921E33931AC0FC7B37D0F13A</key>
+		<string>https://github.com/bjarnoldus/osx-swift-serial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift-serial/swift-serial.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>135544444C6A1E93921E33931AC0FC7B37D0F13A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bjarnoldus/osx-swift-serial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>135544444C6A1E93921E33931AC0FC7B37D0F13A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>135544444C6A1E93921E33931AC0FC7B37D0F13A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GITHUB-osx-swift-serial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
