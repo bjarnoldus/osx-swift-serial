@@ -21,7 +21,7 @@
 import Foundation
 
 
-class StateMachine : NSObject, ORSSerialPortDelegate {
+class SerialHandler : NSObject, ORSSerialPortDelegate {
     let standardInputFileHandle = NSFileHandle.fileHandleWithStandardInput()
     var serialPort: ORSSerialPort?
     
@@ -80,5 +80,5 @@ class StateMachine : NSObject, ORSSerialPortDelegate {
 
 println("Starting serial test program")
 println("To quit type: 'exit' or 'quit'")
-StateMachine().runProcessingInput()
+SerialHandler().runProcessingInput()
 
